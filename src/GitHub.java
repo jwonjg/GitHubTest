@@ -7,4 +7,8 @@ public class GitHub {
 	public void b() {
 		System.out.println("이경화가 만든 메소드");
 	}
+	
+	public void c() {
+		System.out.println("???????");
+	}
 }
