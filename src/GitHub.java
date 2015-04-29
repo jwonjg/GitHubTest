@@ -11,4 +11,8 @@ public class GitHub {
 	public void c() {
 		System.out.println("???????");
 	}
+	
+	public void d() {
+		System.out.println("!!!!!!!!");
+	}
 }
